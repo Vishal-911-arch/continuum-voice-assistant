@@ -1,0 +1,11 @@
+{
+  "name": "continuum-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix rime-voice-agent run dev",
+    "dev:all": "npm --prefix rime-voice-agent run dev:all",
+    "smoke:web": "npm --prefix rime-voice-agent run smoke:web",
+    "check": "npm --prefix rime-voice-agent run check",
+    "install:all": "npm --prefix rime-voice-agent install"
+  }
+}
